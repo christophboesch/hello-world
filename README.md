@@ -2,4 +2,5 @@
 Github test
 
 This is a test of the Git-Functionality.
-So far it works well.
+It still works well but I need to change some more.
+Should be fine now.
